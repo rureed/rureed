@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 
-I'm a Front End web devoper with an education in Full Stack development which I am combining with my extensive history in front-line support, multimedia, and library science.
+I'm a Full Stack web devoper currently concentrating in Front End work which I am combining with my extensive history in front-line support, multimedia, and library science.
 
 🔭 I’m currently working with a team on a job-finding site focusing on sharing resources and opportunities.
 
