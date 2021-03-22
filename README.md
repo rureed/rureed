@@ -4,7 +4,7 @@ I'm a Full Stack web devoper currently concentrating in Front End work which I a
 
 🔭 I’m currently working with a team on a job-finding site focusing on sharing resources and opportunities.
 
-🌱 At the momemtn I’m taking a deeper dive into:
+🌱 At the moment I’m taking a deeper dive into:
 - React Native 
 - pure Functional JS 
 - the Linux Command Line.
