@@ -9,7 +9,7 @@ I'm a Full Stack web devoper currently concentrating in Front End work which I a
 - pure Functional JS 
 - the Linux Command Line.
 
-⚡ Fun facts: I once interviewed Dr. Joyce Brothers for a college newspaper, and Lynyrd Skynyrd's Allen Collins performed a solo concert for my class in the 5th grade.
+⚡ Fun facts: I once interviewed Dr. Joyce Brothers for a college newspaper, and Lynyrd Skynyrd's Allen Collins came to my class in 5th grade for a solo concert.
 
 ---
 
