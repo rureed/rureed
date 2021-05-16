@@ -7,7 +7,7 @@ I'm a Full Stack web devoper currently concentrating in Front End work which I a
 🌱 At the moment I’m taking a deeper dive into:
 - React Native 
 - pure Functional JS 
-- the Linux Command Line.
+- the Linux Command Line
 
 ⚡ Fun facts: I once interviewed Dr. Joyce Brothers for a college newspaper, and Lynyrd Skynyrd's Allen Collins came to my class in 5th grade for a solo concert.
 
